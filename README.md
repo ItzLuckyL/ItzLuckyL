@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lucky aka NightDevil</h1>
+<h1 align="center">Hi 👋, I'm ItzLucky aka NightDevil</h1>
 <h3 align="center">I mainly code plugins for PocketMine-MP (PHP)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightdevil9440&label=Profile%20views&color=57ffff&style=plastic" alt="nightdevil9440" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nightdevil9440" alt="nightdevil9440" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightdevil9440&label=Profile%20views&color=57ffff&style=flat" alt="nightdevil9440" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_itzlucky" target="blank"><img src="https://img.shields.io/twitter/follow/_itzlucky?logo=twitter&style=for-the-badge" alt="_itzlucky" /></a> </p>
 
