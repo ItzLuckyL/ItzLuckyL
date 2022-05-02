@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [NightArena](website.nightarena.net)
 
-- 🤝 I’m looking for help with [NightArena](https://discord.gg/thrP3kRdBH)
-
 - 📫 How to reach me **ItzLucky#2645 (Discord)**
 
 <h3 align="left">Connect with me:</h3>
